@@ -1,0 +1,13 @@
+name: uhc
+main: me.slayz.uhc.Main
+version: 1.0
+api-version: 1.13
+commands:
+  setlobbyworld:
+
+  setplayerworld:
+
+  setdmworld:
+
+  startuhc:
+
